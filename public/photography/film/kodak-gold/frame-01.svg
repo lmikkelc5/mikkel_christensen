@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Corner Store Glow</title>
+  <desc id="desc">Abstract warm-toned photo placeholder.</desc>
+  <rect width="1200" height="1500" fill="#f2d3a2"/>
+  <rect x="100" y="180" width="1000" height="1120" rx="42" fill="#e2a55d"/>
+  <circle cx="320" cy="420" r="150" fill="#f9edcf"/>
+  <rect x="250" y="700" width="700" height="260" rx="20" fill="#4b4035"/>
+  <text x="120" y="1420" font-size="64" fill="#3c2f26" font-family="Arial, sans-serif">Kodak Gold / 01</text>
+</svg>

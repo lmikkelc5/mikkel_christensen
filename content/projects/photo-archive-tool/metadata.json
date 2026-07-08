@@ -1,0 +1,17 @@
+{
+  "title": "Photo Archive Tool",
+  "description": "A utility for scanning folders, extracting EXIF data, and generating lightweight portfolio metadata.",
+  "date": "2026-06-18",
+  "tags": ["Photography", "Tooling"],
+  "featured": false,
+  "coverImage": "",
+  "status": "In Progress",
+  "technologies": ["Node.js", "TypeScript", "EXIF", "CLI"],
+  "github": "https://github.com/example/photo-archive-tool",
+  "demo": "",
+  "startDate": "2026-03-02",
+  "completionDate": "",
+  "images": [],
+  "lessons": ["Users prefer conventions over dashboards for simple asset management."],
+  "improvements": ["Generate album cover suggestions.", "Add duplicate detection."]
+}

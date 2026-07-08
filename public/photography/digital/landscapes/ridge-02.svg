@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f4dfc3"/>
+  <path d="M0 620 L320 480 L520 650 L900 380 L1200 520 L1400 440 L1400 1000 L0 1000 Z" fill="#c98552"/>
+  <path d="M0 760 L300 620 L620 720 L870 560 L1200 640 L1400 590 L1400 1000 L0 1000 Z" fill="#9c5d36"/>
+  <text x="70" y="930" font-size="54" fill="#5b3218" font-family="Arial, sans-serif">Landscapes / 02</text>
+</svg>

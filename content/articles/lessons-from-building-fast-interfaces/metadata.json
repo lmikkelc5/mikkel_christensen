@@ -1,0 +1,10 @@
+{
+  "title": "Lessons From Building Fast Interfaces",
+  "subtitle": "A few patterns that improve perceived performance without unnecessary complexity.",
+  "description": "A few patterns that improve perceived performance without adding unnecessary complexity.",
+  "date": "2026-06-28",
+  "category": "Frontend",
+  "tags": ["Performance", "UX", "React"],
+  "featured": false,
+  "coverImage": ""
+}

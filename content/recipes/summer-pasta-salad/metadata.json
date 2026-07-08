@@ -1,0 +1,26 @@
+{
+  "title": "Summer Pasta Salad",
+  "description": "A bright, quick pasta salad with herbs, lemon, and roasted vegetables.",
+  "date": "2026-07-02",
+  "tags": ["Vegetarian", "Weeknight", "Summer"],
+  "featured": false,
+  "coverImage": "",
+  "prepTime": "20 minutes",
+  "cookTime": "15 minutes",
+  "totalTime": "35 minutes",
+  "servings": "4",
+  "difficulty": "Easy",
+  "ingredients": [
+    "12 oz pasta",
+    "1 zucchini, sliced",
+    "1 red bell pepper, chopped",
+    "1 cup cherry tomatoes",
+    "1 lemon",
+    "3 tbsp olive oil",
+    "1/3 cup chopped parsley",
+    "Salt and pepper"
+  ],
+  "images": [],
+  "notes": ["Rest for 10 minutes before serving for the best flavor."],
+  "nutrition": ["Approx. 480 calories per serving", "12g protein"]
+}

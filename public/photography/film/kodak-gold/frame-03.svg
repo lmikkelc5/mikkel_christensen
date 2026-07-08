@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+  <rect width="1200" height="1500" fill="#d6b89a"/>
+  <rect x="160" y="220" width="880" height="1060" rx="56" fill="#a87d60"/>
+  <rect x="320" y="360" width="560" height="700" rx="280" fill="#f3e7da"/>
+  <rect x="450" y="520" width="300" height="260" rx="150" fill="#7b5a48"/>
+  <text x="120" y="1420" font-size="64" fill="#4e372a" font-family="Arial, sans-serif">Kodak Gold / 03</text>
+</svg>

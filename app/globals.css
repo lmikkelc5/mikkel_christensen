@@ -1,0 +1,81 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-inter);
+  --color-background: oklch(0.985 0.005 95);
+  --color-foreground: oklch(0.22 0.02 255);
+  --color-muted: oklch(0.95 0.01 255);
+  --color-muted-foreground: oklch(0.5 0.02 255);
+  --color-border: oklch(0.91 0.01 255);
+  --color-card: oklch(1 0 0);
+  --color-card-foreground: oklch(0.22 0.02 255);
+  --color-accent: oklch(0.64 0.12 240);
+  --color-accent-soft: oklch(0.95 0.03 240);
+  --radius-card: 1.5rem;
+}
+
+:root {
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+  --color-background: oklch(0.17 0.02 255);
+  --color-foreground: oklch(0.97 0.01 255);
+  --color-muted: oklch(0.24 0.02 255);
+  --color-muted-foreground: oklch(0.74 0.02 255);
+  --color-border: oklch(0.31 0.02 255);
+  --color-card: oklch(0.2 0.02 255);
+  --color-card-foreground: oklch(0.97 0.01 255);
+  --color-accent: oklch(0.75 0.1 235);
+  --color-accent-soft: oklch(0.28 0.03 235);
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-inter), Arial, Helvetica, sans-serif;
+}
+
+a,
+button,
+input,
+textarea,
+select {
+  transition:
+    color 160ms ease,
+    background-color 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease,
+    opacity 160ms ease;
+}
+
+.page-shell {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.surface {
+  @apply rounded-[var(--radius-card)] border bg-[var(--color-card)] text-[var(--color-card-foreground)];
+}
+
+.prose-custom {
+  @apply prose prose-slate max-w-none prose-headings:scroll-mt-24 prose-headings:font-semibold prose-a:text-[var(--color-accent)] prose-a:no-underline hover:prose-a:underline prose-code:rounded prose-code:bg-[var(--color-accent-soft)] prose-code:px-1 prose-code:py-0.5 prose-code:before:hidden prose-code:after:hidden dark:prose-invert;
+}
+
+.bg-grid {
+  background-image:
+    linear-gradient(to right, color-mix(in oklch, var(--color-border) 60%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in oklch, var(--color-border) 60%, transparent) 1px, transparent 1px);
+  background-size: 32px 32px;
+}

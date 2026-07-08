@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#dce9f8"/>
+  <circle cx="1070" cy="190" r="90" fill="#fef7d6"/>
+  <path d="M0 760 C220 630 360 670 520 600 C760 500 990 590 1400 430 L1400 1000 L0 1000 Z" fill="#5d7ea6"/>
+  <path d="M0 820 C240 700 470 760 660 700 C910 620 1140 700 1400 560 L1400 1000 L0 1000 Z" fill="#7f9dbd"/>
+  <text x="70" y="930" font-size="54" fill="#27405f" font-family="Arial, sans-serif">Landscapes / 01</text>
+</svg>

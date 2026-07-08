@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#d9def3"/>
+  <path d="M0 290 C180 260 400 320 610 250 C800 190 1050 220 1400 120" stroke="#ffffff" stroke-width="80" fill="none" stroke-linecap="round"/>
+  <rect y="620" width="1400" height="380" fill="#5f6f94"/>
+  <path d="M0 680 C220 640 470 710 780 650 C980 610 1180 650 1400 620" stroke="#97a7d3" stroke-width="12" fill="none"/>
+  <text x="70" y="930" font-size="54" fill="#26355f" font-family="Arial, sans-serif">Landscapes / 04</text>
+</svg>

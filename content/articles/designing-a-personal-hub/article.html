@@ -1,0 +1,10 @@
+<p>Creating a personal website is easy. Creating one that still feels useful in three years is harder.</p>
+<h2>Start with content shape</h2>
+<p>A good personal site starts by understanding the kinds of content it needs to hold. Articles, projects, recipes, and photography all have different structures, so the filesystem should reflect that from the beginning.</p>
+<h2>Prefer boring systems</h2>
+<p>For long-term maintenance, static generation and folder-based content are usually the right defaults. They keep deployment simple and reduce the amount of infrastructure you need to think about.</p>
+<h3>Why HTML plus metadata works</h3>
+<p>Separating formatted HTML from searchable metadata keeps the content model simple while still making room for a rich editing experience in the admin dashboard.</p>
+<h2>Leave room for future complexity</h2>
+<p>The easiest way to scale a site is not by adding abstraction early, but by choosing a structure that can accept more content without changing the routes.</p>
+<pre><code>const sections = ["articles", "projects", "recipes", "photography"];</code></pre>

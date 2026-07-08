@@ -1,0 +1,10 @@
+{
+  "title": "Designing a Personal Hub That Can Grow for Years",
+  "subtitle": "A practical look at structuring a site for writing, projects, recipes, and photography.",
+  "description": "A practical look at building a personal website that balances writing, photography, recipes, and software work.",
+  "date": "2026-07-06",
+  "category": "Web Design",
+  "tags": ["Next.js", "Architecture", "Personal Site"],
+  "featured": true,
+  "coverImage": "/content/articles/designing-a-personal-hub/cover.jpg"
+}

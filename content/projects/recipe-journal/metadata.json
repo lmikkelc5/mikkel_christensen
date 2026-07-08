@@ -1,0 +1,17 @@
+{
+  "title": "Recipe Journal",
+  "description": "A personal cooking log built to keep recipes, notes, and adjustments in one place.",
+  "date": "2026-05-22",
+  "tags": ["Food", "Content"],
+  "featured": false,
+  "coverImage": "",
+  "status": "Planned",
+  "technologies": ["Next.js", "HTML", "Search"],
+  "github": "https://github.com/example/recipe-journal",
+  "demo": "",
+  "startDate": "2026-05-22",
+  "completionDate": "",
+  "images": [],
+  "lessons": ["Cooking content benefits from strong structure more than flashy interactions."],
+  "improvements": ["Support grocery list generation.", "Add recipe scaling."]
+}

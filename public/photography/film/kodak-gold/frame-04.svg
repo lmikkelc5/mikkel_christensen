@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+  <rect width="1200" height="1500" fill="#e8d9c0"/>
+  <path d="M0 1150 L1200 350" stroke="#373332" stroke-width="90"/>
+  <path d="M0 1320 L1200 520" stroke="#78634c" stroke-width="70"/>
+  <path d="M0 980 L1200 180" stroke="#fffaf2" stroke-width="50"/>
+  <text x="120" y="1420" font-size="64" fill="#3f352d" font-family="Arial, sans-serif">Kodak Gold / 04</text>
+</svg>

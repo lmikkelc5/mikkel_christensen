@@ -1,0 +1,44 @@
+{
+  "title": "Kodak Gold",
+  "description": "Warm street scenes and soft afternoon light from a Kodak Gold roll.",
+  "date": "2026-05-14",
+  "cover": "frame-01.svg",
+  "featured": true,
+  "tags": ["film", "street", "warm tones"],
+  "photos": {
+    "frame-01.svg": {
+      "title": "Corner Store Glow",
+      "caption": "Late afternoon light bouncing off a small storefront.",
+      "filmStock": "Kodak Gold 200",
+      "camera": "Canon AE-1",
+      "lens": "50mm f/1.8",
+      "iso": "200",
+      "aperture": "f/4",
+      "shutterSpeed": "1/250s",
+      "focalLength": "50mm",
+      "location": "Chicago, Illinois",
+      "tags": ["film", "street"],
+      "featured": true
+    },
+    "frame-02.svg": {
+      "title": "Neon Reflection",
+      "caption": "Reflections on wet pavement after a summer storm.",
+      "filmStock": "Kodak Gold 200",
+      "camera": "Canon AE-1",
+      "location": "Chicago, Illinois",
+      "tags": ["film", "night"]
+    },
+    "frame-03.svg": {
+      "title": "Bus Window",
+      "caption": "A quiet portrait through soft glass and evening light.",
+      "filmStock": "Kodak Gold 200",
+      "tags": ["film", "portrait"]
+    },
+    "frame-04.svg": {
+      "title": "Crosswalk Lines",
+      "caption": "Simple geometry and a pause before the light changed.",
+      "filmStock": "Kodak Gold 200",
+      "tags": ["film", "minimal"]
+    }
+  }
+}

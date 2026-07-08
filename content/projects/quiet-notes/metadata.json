@@ -1,0 +1,20 @@
+{
+  "title": "Quiet Notes",
+  "description": "A focused note-taking app designed around fast capture and clean reading.",
+  "date": "2026-07-01",
+  "tags": ["Product", "Writing"],
+  "featured": true,
+  "coverImage": "",
+  "status": "Completed",
+  "technologies": ["Next.js", "TypeScript", "SQLite", "Tailwind CSS"],
+  "github": "https://github.com/example/quiet-notes",
+  "demo": "https://quiet-notes.example.com",
+  "startDate": "2026-01-15",
+  "completionDate": "2026-07-01",
+  "images": [],
+  "lessons": [
+    "Good empty states matter more than decorative UI.",
+    "Search feels best when it is instant and forgiving."
+  ],
+  "improvements": ["Add offline-first sync.", "Improve keyboard shortcut customization."]
+}

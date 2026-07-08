@@ -1,0 +1,38 @@
+{
+  "title": "Japan 2026",
+  "description": "Travel images from train stations, quiet streets, and bright city evenings.",
+  "date": "2026-04-18",
+  "cover": "tokyo-01.svg",
+  "tags": ["travel", "japan", "city"],
+  "photos": {
+    "tokyo-01.svg": {
+      "title": "Station Platform",
+      "caption": "Orderly lines and a calm wait for the next train.",
+      "camera": "Fujifilm X100V",
+      "location": "Tokyo, Japan",
+      "tags": ["travel", "tokyo"],
+      "featured": true
+    },
+    "tokyo-02.svg": {
+      "title": "Lantern Alley",
+      "caption": "A narrow lane lit by paper lanterns at dusk.",
+      "camera": "Fujifilm X100V",
+      "location": "Kyoto, Japan",
+      "tags": ["travel", "night"]
+    },
+    "tokyo-03.svg": {
+      "title": "Rainy Crossing",
+      "caption": "Umbrellas and mirrored reflections in the street.",
+      "camera": "Fujifilm X100V",
+      "location": "Tokyo, Japan",
+      "tags": ["travel", "rain"]
+    },
+    "tokyo-04.svg": {
+      "title": "Temple Steps",
+      "caption": "Quiet morning light on worn stone steps.",
+      "camera": "Fujifilm X100V",
+      "location": "Nara, Japan",
+      "tags": ["travel", "architecture"]
+    }
+  }
+}

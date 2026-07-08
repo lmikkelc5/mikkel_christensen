@@ -1,0 +1,40 @@
+{
+  "title": "Landscapes",
+  "description": "Wide scenes, quiet horizons, and early morning color from digital outings.",
+  "date": "2026-06-09",
+  "cover": "ridge-01.svg",
+  "tags": ["digital", "landscape", "nature"],
+  "photos": {
+    "ridge-01.svg": {
+      "title": "Blue Ridge",
+      "caption": "Layered hills before sunrise.",
+      "camera": "Sony A7 IV",
+      "lens": "24-70mm f/2.8",
+      "iso": "100",
+      "aperture": "f/8",
+      "shutterSpeed": "1/60s",
+      "focalLength": "35mm",
+      "location": "Blue Ridge Parkway",
+      "tags": ["digital", "mountains"],
+      "featured": true
+    },
+    "ridge-02.svg": {
+      "title": "Desert Overlook",
+      "caption": "Warm stone and a long horizon line.",
+      "camera": "Sony A7 IV",
+      "tags": ["digital", "desert"]
+    },
+    "ridge-03.svg": {
+      "title": "Pine Lake",
+      "caption": "Still water just after sunrise.",
+      "camera": "Sony A7 IV",
+      "tags": ["digital", "lake"]
+    },
+    "ridge-04.svg": {
+      "title": "Cloud Shelf",
+      "caption": "A dramatic band of clouds crossing open land.",
+      "camera": "Sony A7 IV",
+      "tags": ["digital", "sky"]
+    }
+  }
+}
